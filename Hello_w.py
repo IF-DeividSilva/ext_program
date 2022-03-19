@@ -1,0 +1,5 @@
+print ("hola word")
+nome = input('Nome: ')
+sobrenome = input()
+email = input ()
+print (nome,"\n Sobrenome:",sobrenome,"\n E-mail:",email)
