@@ -1,3 +1,6 @@
+# pip install dash
+# pip install pandas
+
 from dash import html, dcc
 import dash
 from dash.dependencies import Input, Output
@@ -17,14 +20,16 @@ app.layout = dbc.Container(children=[
             dbc.Col([
                 dcc.location(id='url'),
                 sidebar.layout 
-            ], md=2)    # coluna ocupa 2 espacos de 12 
+            ], md=2),    # coluna ocupa 2 espacos de 12 
             dbc.Col([
                 content
-            ], md = 10)  # coluna ocupa 10 espacos de 12
+            ], md = 10),  # coluna ocupa 10 espacos de 12
     ])
 
 
 ], fluid=True) # conteudo da pagina vai se espalhar pela tela toda
+
+#----------------------------------------------------------------
 
 # Callbacks 
 @app.callback(
