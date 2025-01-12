@@ -1,12 +1,17 @@
 # pip install dash
 # pip install pandas
+# pip install dash-bootstrap-components
+# pip install dash-bootstrap-templates
+
 
 from dash import html, dcc
 import dash
 from dash.dependencies import Input, Output
+import dash_bootstrap_components as dbc
 import pandas as pd
 import plotly.express as px
 
+# import from folders
 from app import *
 from components import sidebar, dashboards, extratos
 
@@ -18,11 +23,11 @@ contant = html.Div(id= "page-contant")
 app.layout = dbc.Container(children=[
         dbc.Row([
             dbc.Col([
-                dcc.location(id='url'),
+                dcc.Location(id='url'),
                 sidebar.layout 
             ], md=2),    # coluna ocupa 2 espacos de 12 
             dbc.Col([
-                content
+                contant
             ], md = 10),  # coluna ocupa 10 espacos de 12
     ])
 
