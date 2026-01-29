@@ -43,7 +43,7 @@ O projeto seguiu um ciclo iterativo de prototipagem:
 | :---: | :---: |
 | ![Modelagem 3D](https://github.com/IF-DeividSilva/ext_program/blob/main/Computa%C3%A7%C3%A3o%20Assistiva/Imgs/img4.png) | ![Protótipo Físico](https://github.com/IF-DeividSilva/ext_program/blob/main/Computa%C3%A7%C3%A3o%20Assistiva/Imgs/img3.png) |
 
-![Apresemtação](https://github.com/IF-DeividSilva/ext_program/blob/main/Computa%C3%A7%C3%A3o%20Assistiva/Imgs/img5.jpeg)
+![Apresentação](https://github.com/IF-DeividSilva/ext_program/blob/main/Computa%C3%A7%C3%A3o%20Assistiva/Imgs/img5.jpeg){width=400px}
 
 
 ## Status do Projeto
