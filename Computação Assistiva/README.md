@@ -34,7 +34,7 @@ O projeto seguiu um ciclo iterativo de prototipagem:
 1.  **Estudo do Braille:** Capacitação técnica para aplicação correta da grafia em superfícies 3D.
 2.  **Modelagem e Prototipagem:** Criação de modelos iniciais (vasos) e refinamento para o produto final (incensários) utilizando o software TinkerCad.
 3.  **Testes de Impressão:** Ajustes de parâmetros na impressora Ender 3 para garantir a legibilidade do relevo tátil.
-4.  **Validação:** Apresentação de resultados na *Mostra de Projetos de Extensão da UTFPR*.
+4.  **Validação:** Apresentação de resultados na *Mostra de Projetos de Extensão da UTFPR* e também em escolas de ensino médio da região.
 
 ## Galeria do Projeto
 
