@@ -38,11 +38,13 @@ O projeto seguiu um ciclo iterativo de prototipagem:
 
 ## Galeria do Projeto
 
-*(Espaço reservado para inserir fotos dos protótipos amarelos/vermelhos e do banner apresentados nos relatórios)*
 
 | Modelagem (TinkerCad) | Protótipo Impresso |
 | :---: | :---: |
 | ![Modelagem 3D](https://github.com/IF-DeividSilva/ext_program/blob/main/Computa%C3%A7%C3%A3o%20Assistiva/Imgs/img4.png) | ![Protótipo Físico](https://github.com/IF-DeividSilva/ext_program/blob/main/Computa%C3%A7%C3%A3o%20Assistiva/Imgs/img3.png) |
+
+https://github.com/IF-DeividSilva/ext_program/blob/main/Computa%C3%A7%C3%A3o%20Assistiva/Imgs/img5.jpeg
+
 
 ## Status do Projeto
 
