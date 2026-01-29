@@ -2,13 +2,13 @@
 
 > Projeto de Extensão desenvolvido na Universidade Tecnológica Federal do Paraná (UTFPR) - Câmpus Apucarana.
 
-## 📄 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto tem como objetivo principal utilizar, desenvolver e documentar materiais didático-pedagógicos baseados em tecnologias assistivas para promover a inclusão de pessoas com deficiência visual.
 
 Segundo dados da PNAD (2023), estima-se que milhões de brasileiros possuem alguma dificuldade visual. Diante desse cenário, o projeto explora a **Impressão 3D** e o **Desenvolvimento Web** como ferramentas de baixo custo para criar soluções acessíveis e replicáveis.
 
-## 🎯 Objetivos e Impacto
+## Objetivos e Impacto
 
 O projeto atua em duas frentes principais, unindo inclusão social e saúde pública:
 
@@ -21,14 +21,14 @@ Desenvolvimento de objetos com identificação em **Braille**. O foco principal 
 ### 2. Acessibilidade Digital (Web)
 Integração com o **Ecomuseu do Boné** (iniciativa do Departamento de Moda) para o desenvolvimento de um site inclusivo. Esta etapa evoluiu para um protótipo de Trabalho de Conclusão de Curso (TCC), focando em interfaces web acessíveis.
 
-## 🛠️ Tecnologias e Ferramentas Utilizadas
+## Tecnologias e Ferramentas Utilizadas
 
 * **Modelagem 3D:** TinkerCad
 * **Fatiamento (Slicing)::** Ultimaker Cura
 * **Hardware:** Impressora 3D Creality Ender 3
 * **Acessibilidade:** Estudo e aplicação da Grafia Braille
 
-## 🚀 Desenvolvimento e Metodologia
+## Desenvolvimento e Metodologia
 
 O projeto seguiu um ciclo iterativo de prototipagem:
 1.  **Estudo do Braille:** Capacitação técnica para aplicação correta da grafia em superfícies 3D.
@@ -36,7 +36,7 @@ O projeto seguiu um ciclo iterativo de prototipagem:
 3.  **Testes de Impressão:** Ajustes de parâmetros na impressora Ender 3 para garantir a legibilidade do relevo tátil.
 4.  **Validação:** Apresentação de resultados na *Mostra de Projetos de Extensão da UTFPR*.
 
-## 📸 Galeria do Projeto
+## Galeria do Projeto
 
 *(Espaço reservado para inserir fotos dos protótipos amarelos/vermelhos e do banner apresentados nos relatórios)*
 
@@ -44,16 +44,14 @@ O projeto seguiu um ciclo iterativo de prototipagem:
 | :---: | :---: |
 | ![Modelagem 3D](link-para-imagem-tinkercad.jpg) | ![Protótipo Físico](link-para-imagem-prototipo.jpg) |
 
-## 📌 Status do Projeto
+## Status do Projeto
 
 * ✅ **Fase 1:** Capacitação em Modelagem e Impressão 3D.
 * ✅ **Fase 2:** Prototipagem dos suportes com Braille.
 * 🔄 **Fase 3:** A etapa de produção em massa dos incensários foi pausada para adequação às normas de segurança de compostos químicos, redirecionando o foco para a aplicação Web (TCC).
 
-## 👥 Autor
+## Autor
 
 **Deivid da Silva Galvão**
 * Acadêmico da UTFPR - Câmpus Apucarana
 
----
-*Este projeto foi realizado com apoio de bolsa institucional (Fundação Araucária) e orientação docente.*
