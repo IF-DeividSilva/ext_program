@@ -1,4 +1,4 @@
-# Computação Assistiva para Suporte a Pessoas com Necessidades Específicas (v2)
+# Computação Assistiva para Suporte a Pessoas com Necessidades Específicas
 
 > Projeto de Extensão desenvolvido na Universidade Tecnológica Federal do Paraná (UTFPR) - Câmpus Apucarana.
 
